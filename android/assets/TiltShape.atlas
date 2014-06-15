@@ -1,0 +1,13 @@
+
+TiltShape.png
+size: 992,971
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+grid
+  rotate: false
+  xy: 2, 2
+  size: 990, 969
+  orig: 990, 969
+  offset: 0, 0
+  index: -1
