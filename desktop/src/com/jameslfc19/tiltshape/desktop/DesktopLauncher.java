@@ -17,8 +17,8 @@ public class DesktopLauncher {
 				settings.maxHeight = 2048;
 				settings.paddingX = 2;
 	        	settings.paddingY = 2;
-	        	settings.filterMin = TextureFilter.Nearest;
-	        	settings.filterMag = TextureFilter.Nearest;
+	        	settings.filterMin = TextureFilter.Linear;
+	        	settings.filterMag = TextureFilter.Linear;
 				TexturePacker.process(settings, "../assets/raw-images", "../android/assets", "TiltShape");
 			}
 		}

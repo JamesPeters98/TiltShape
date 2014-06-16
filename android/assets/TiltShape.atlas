@@ -1,13 +1,83 @@
 
 TiltShape.png
-size: 992,971
+size: 1930,971
 format: RGBA8888
-filter: Nearest,Nearest
+filter: Linear,Linear
 repeat: none
+blue
+  rotate: false
+  xy: 994, 585
+  size: 196, 192
+  orig: 196, 192
+  offset: 0, 0
+  index: -1
+circle_dark
+  rotate: false
+  xy: 1192, 495
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+circle_white
+  rotate: false
+  xy: 1356, 638
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 1429, 779
+  size: 196, 192
+  orig: 196, 192
+  offset: 0, 0
+  index: -1
 grid
   rotate: false
   xy: 2, 2
   size: 990, 969
   orig: 990, 969
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 994, 391
+  size: 196, 192
+  orig: 196, 192
+  offset: 0, 0
+  index: -1
+scorebox
+  rotate: false
+  xy: 994, 779
+  size: 433, 192
+  orig: 433, 192
+  offset: 0, 0
+  index: -1
+square_dark
+  rotate: false
+  xy: 994, 248
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+square_white
+  rotate: false
+  xy: 1791, 832
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+triangle_dark
+  rotate: false
+  xy: 1192, 636
+  size: 162, 141
+  orig: 162, 141
+  offset: 0, 0
+  index: -1
+triangle_white
+  rotate: false
+  xy: 1627, 830
+  size: 162, 141
+  orig: 162, 141
   offset: 0, 0
   index: -1
